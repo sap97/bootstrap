@@ -1,0 +1,149 @@
+@import url(fonts.css);
+
+body{
+    height: 3355px;
+    width: 1440px;
+    /* border: 0.5px solid black; */
+    margin: 0 auto;
+}
+p{margin-top: 16px;
+}
+.image_bc{
+    width: 100%;
+    height: 768px;
+    background-image: url(../image/HeroSection.jpg);
+}
+.main{
+    width: 1107px;
+    margin: 0 auto ;
+}
+.about{
+    width: 100%;
+    height: 544px;
+    background-color: #FFFFFF;
+    margin: 100px auto;
+    display: flex;
+}
+.about_text{
+    width: 1107px;
+    height: 320px;
+    margin: 92px 158px 140px 169px;
+
+}
+.bolt-text{
+    width:73px;
+    height:29px;
+    font-family: 'Libre Franklin bolt';
+    font-size: 24px ;
+    font-weight: 700;
+}
+.light-text{
+    font-family: 'Libre Franklin ';
+    font-size: 18px ;
+    font-weight: 400;
+}
+.skills{
+    width: 100%;
+    height: 693px;
+    background-color: #FFFAF2;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+}
+.skills_main{
+    width: 1107px;
+    height: 455px;
+    margin: 91px 63px 149px 164px;
+    /* display: flex; */
+}
+.foto{
+    margin-top: 15px;
+}
+.skill_prosent{
+    width: 637px;
+    height: 346px; 
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: space-around;    
+}
+.middel-text{
+    /* width:73px;
+    height:29px; */
+    font-family: 'Libre Franklin bolt';
+    font-size: 18px ;
+    font-weight: 600;
+}
+.skill_prosent_name{
+    display: flex;
+    
+    flex-direction: column;
+}
+.progress{
+    background-color: #F5D6AB;
+    margin-left: 228px;
+    margin-top: -16px;
+}
+.progress-bar{
+    background-color: #C66C49;
+}
+.tools{
+margin-right: 20px; 
+}
+.light_marg{
+    margin-left: 183px;
+}
+.collage{
+    width: 100%;
+    height: 720px;
+}
+.collage_main{
+    width: 1109px;
+    height: 602px;
+    margin: 93px 165px 127px 166px;
+    display: flex;
+    justify-content: space-around;
+}
+.size{
+    width: 349px;
+    height: 137px;
+}
+.fix_1{
+    margin-top: 20px;
+}
+.foto_collage{
+    width: 635px;
+    height: 403px;
+}
+.container_footer{
+    width: 100%;
+    height: 528px;
+    background: #FFFAF2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
